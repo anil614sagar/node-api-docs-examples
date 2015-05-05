@@ -1,3 +1,3 @@
 # node-api-docs-examples
 
-See an example for every node api document.
+See an example for every NodeJS api.
